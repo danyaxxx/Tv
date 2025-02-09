@@ -1,0 +1,245 @@
+#EXTM3U url-tvg="http://epg.it999.ru/ru.xml.gz" deinterlace=1
+#EXTINF:-1 catchup="flussonic" catchup-days="3",Первый канал
+http://10.52.25.25:48490/CH1/video.m3u8
+#EXTINF:-1 catchup="flussonic" catchup-days="3",Россия 1
+http://10.52.25.25:48490/CH2/video.m3u8
+#EXTINF:-1 catchup="flussonic" catchup-days="3",Матч ТВ
+http://10.52.25.25:48490/CH3/video.m3u8
+#EXTINF:-1 catchup="flussonic" catchup-days="3",НТВ
+http://10.52.25.25:48490/CH4/video.m3u8
+#EXTINF:-1 catchup="flussonic" catchup-days="3",Пятый канал
+http://10.52.25.25:48490/CH5/video.m3u8
+#EXTINF:-1 catchup="flussonic" catchup-days="3",Россия К
+http://10.52.25.25:48490/CH6/video.m3u8
+#EXTINF:-1 catchup="flussonic" catchup-days="3",Россия 24
+http://10.52.25.25:48490/CH7/video.m3u8
+#EXTINF:-1 catchup="flussonic" catchup-days="3",Карусель
+http://10.52.25.25:48490/CH8/video.m3u8
+#EXTINF:-1 catchup="flussonic" catchup-days="3",ОТР
+http://10.52.25.25:48490/CH9/video.m3u8
+#EXTINF:-1 catchup="flussonic" catchup-days="3",ТВ центр
+http://10.52.25.25:48490/CH10/video.m3u8
+#EXTINF:-1 catchup="flussonic" catchup-days="3",Рен ТВ
+http://10.52.25.25:48490/CH11/video.m3u8
+#EXTINF:-1 catchup="flussonic" catchup-days="3",Спас
+http://10.52.25.25:48490/CH12/video.m3u8
+#EXTINF:-1 catchup="flussonic" catchup-days="3",СТС
+http://10.52.25.25:48490/CH13/video.m3u8
+#EXTINF:-1 catchup="flussonic" catchup-days="3",Домашний
+http://10.52.25.25:48490/CH14/video.m3u8
+#EXTINF:-1 catchup="flussonic" catchup-days="3",ТВ3
+http://10.52.25.25:48490/CH15/video.m3u8
+#EXTINF:-1 catchup="flussonic" catchup-days="3",Пятница
+http://10.52.25.25:48490/CH16/video.m3u8
+#EXTINF:-1 catchup="flussonic" catchup-days="3",Звезда
+http://10.52.25.25:48490/CH17/video.m3u8
+#EXTINF:-1 catchup="flussonic" catchup-days="3",Мир
+http://10.52.25.25:48490/CH18/video.m3u8
+#EXTINF:-1 catchup="flussonic" catchup-days="3",ТНТ
+http://10.52.25.25:48490/CH19/video.m3u8
+#EXTINF:-1 catchup="flussonic" catchup-days="3",Муз ТВ
+http://10.52.25.25:48490/CH20/video.m3u8
+#EXTINF:-1 catchup="flussonic" catchup-days="3",Крым 24
+http://10.52.25.25:48490/CH21/video.m3u8
+#EXTINF:-1,ТНВ Планета
+http://10.52.25.25:48490/CH22/video.m3u8
+#EXTINF:-1,Красная линия
+http://10.52.25.25:48490/CH23/video.m3u8
+#EXTINF:-1,Миллет
+http://10.52.25.25:48490/CH24/video.m3u8
+#EXTINF:-1,Тайна
+http://10.52.25.25:48490/CH25/video.m3u8
+#EXTINF:-1,ЧЕ
+http://10.52.25.25:48490/CH26/video.m3u8
+#EXTINF:-1,Северный Крым 24
+http://10.52.25.25:48490/CH27/video.m3u8
+#EXTINF:-1,Первый Крымский
+http://10.52.25.25:48490/CH28/video.m3u8
+#EXTINF:-1,Союз
+http://10.52.25.25:48490/CH29/video.m3u8
+#EXTINF:-1,365 Дней
+http://10.52.25.25:48490/CH30/video.m3u8
+#EXTINF:-1,8 канал
+http://10.52.25.25:48490/CH31/video.m3u8
+#EXTINF:-1,Вместе РФ
+http://10.52.25.25:48490/CH32/video.m3u8
+#EXTINF:-1,Драйв
+http://10.52.25.25:48490/CH33/video.m3u8
+#EXTINF:-1,Наука
+http://10.52.25.25:48490/CH34/video.m3u8
+#EXTINF:-1,RT DOC
+http://10.52.25.25:48490/CH35/video.m3u8
+#EXTINF:-1,Москва 24
+http://10.52.25.25:48490/CH36/video.m3u8
+#EXTINF:-1,ANI
+http://10.52.25.25:48490/CH37/video.m3u8
+#EXTINF:-1,Техно 24
+http://10.52.25.25:48490/CH38/video.m3u8
+#EXTINF:-1,Еврокино
+http://10.52.25.25:48490/CH39/video.m3u8
+#EXTINF:-1,Охота и рыбалка
+http://10.52.25.25:48490/CH40/video.m3u8
+#EXTINF:-1,Мульт и музыка
+http://10.52.25.25:48490/CH41/video.m3u8
+#EXTINF:-1,Домашние животные
+http://10.52.25.25:48490/CH42/video.m3u8
+#EXTINF:-1,Суббота
+http://10.52.25.25:48490/CH43/video.m3u8
+#EXTINF:-1,Nano
+http://10.52.25.25:48490/CH44/video.m3u8
+#EXTINF:-1,Здоровое ТВ
+http://10.52.25.25:48490/CH45/video.m3u8
+#EXTINF:-1,RTG
+http://10.52.25.25:48490/CH46/video.m3u8
+#EXTINF:-1,360
+http://10.52.25.25:48490/CH47/video.m3u8
+#EXTINF:-1,Соловьев Live
+http://10.52.25.25:48490/CH48/video.m3u8
+#EXTINF:-1,ЛДПР Live
+http://10.52.25.25:48490/CH49/video.m3u8
+#EXTINF:-1,Первый Российский национальный
+http://10.52.25.25:48490/CH50/video.m3u8
+#EXTINF:-1,Радость моя
+http://10.52.25.25:48490/CH51/video.m3u8
+#EXTINF:-1,Сарафан
+http://10.52.25.25:48490/CH52/video.m3u8
+#EXTINF:-1,Bridge TV Русский Хит
+http://10.52.25.25:48490/CH53/video.m3u8
+#EXTINF:-1,Кухня ТВ
+http://10.52.25.25:48490/CH54/video.m3u8
+#EXTINF:-1,Sony Sci-Fi
+http://10.52.25.25:48490/CH55/video.m3u8
+#EXTINF:-1,Ретро
+http://10.52.25.25:48490/CH56/video.m3u8
+#EXTINF:-1,Доктор
+http://10.52.25.25:48490/CH57/video.m3u8
+#EXTINF:-1,Bridge TV
+http://10.52.25.25:48490/CH58/video.m3u8
+#EXTINF:-1,Матч Арена
+http://10.52.25.25:48490/CH59/video.m3u8
+#EXTINF:-1,Моя планета
+http://10.52.25.25:48490/CH60/video.m3u8
+#EXTINF:-1,Усадьба
+http://10.52.25.25:48490/CH61/video.m3u8
+#EXTINF:-1,Любимое кино
+http://10.52.25.25:48490/CH62/video.m3u8
+#EXTINF:-1,Комедия
+http://10.52.25.25:48490/CH63/video.m3u8
+#EXTINF:-1,Кино ТВ
+http://10.52.25.25:48490/CH64/video.m3u8
+#EXTINF:-1,ТНТ4
+http://10.52.25.25:48490/CH65/video.m3u8
+#EXTINF:-1 catchup="flussonic" catchup-days="3",Киносерия
+http://10.52.25.25:48490/CH66/video.m3u8
+#EXTINF:-1 catchup="flussonic" catchup-days="3",Русский роман
+http://10.52.25.25:48490/CH67/video.m3u8
+#EXTINF:-1,Русский бестселлер
+http://10.52.25.25:48490/CH68/video.m3u8
+#EXTINF:-1,Русский детектив
+http://10.52.25.25:48490/CH69/video.m3u8
+#EXTINF:-1 catchup="flussonic" catchup-days="3",Дом кино
+http://10.52.25.25:48490/CH70/video.m3u8
+#EXTINF:-1,Кинокомедия
+http://10.52.25.25:48490/CH71/video.m3u8
+#EXTINF:-1,TV1000 Action
+http://10.52.25.25:48490/CH72/video.m3u8
+#EXTINF:-1,Точка ТВ
+http://10.52.25.25:48490/CH73/video.m3u8
+#EXTINF:-1 catchup="flussonic" catchup-days="3",TV1000 Русское
+http://10.52.25.25:48490/CH74/video.m3u8
+#EXTINF:-1,Киносемья
+http://10.52.25.25:48490/CH75/video.m3u8
+#EXTINF:-1,Наше новое кино
+http://10.52.25.25:48490/CH76/video.m3u8
+#EXTINF:-1,Киносвидание
+http://10.52.25.25:48490/CH77/video.m3u8
+#EXTINF:-1,Кинохит
+http://10.52.25.25:48490/CH78/video.m3u8
+#EXTINF:-1,Кинопремьера
+http://10.52.25.25:48490/CH79/video.m3u8
+#EXTINF:-1,VIP Comedy
+http://10.52.25.25:48490/CH80/video.m3u8
+#EXTINF:-1,VIP Megahit
+http://10.52.25.25:48490/CH81/video.m3u8
+#EXTINF:-1,VIP Premiere
+http://10.52.25.25:48490/CH82/video.m3u8
+#EXTINF:-1,Индийское кино
+http://10.52.25.25:48490/CH83/video.m3u8
+#EXTINF:-1,Киномикс
+http://10.52.25.25:48490/CH84/video.m3u8
+#EXTINF:-1,Мужское кино
+http://10.52.25.25:48490/CH85/video.m3u8
+#EXTINF:-1,Мама
+http://10.52.25.25:48490/CH86/video.m3u8
+#EXTINF:-1,Детский мир
+http://10.52.25.25:48490/CH87/video.m3u8
+#EXTINF:-1,История
+http://10.52.25.25:48490/CH88/video.m3u8
+#EXTINF:-1,Уникум
+http://10.52.25.25:48490/CH89/video.m3u8
+#EXTINF:-1,Мульт
+http://10.52.25.25:48490/CH90/video.m3u8
+#EXTINF:-1,RU TV
+http://10.52.25.25:48490/CH91/video.m3u8
+#EXTINF:-1,Матч премьер
+http://10.52.25.25:48490/CH92/video.m3u8
+#EXTINF:-1,Матч Футбол 1
+http://10.52.25.25:48490/CH93/video.m3u8
+#EXTINF:-1,Матч Футбол 2
+http://10.52.25.25:48490/CH94/video.m3u8
+#EXTINF:-1,Матч Футбол 3
+http://10.52.25.25:48490/CH95/video.m3u8
+#EXTINF:-1 catchup="flussonic" catchup-days="3",Мосфильм. Золотая Коллекция
+http://10.52.25.25:48490/CH96/video.m3u8
+#EXTINF:-1,Мир сериала
+http://10.52.25.25:48490/CH97/video.m3u8
+#EXTINF:-1,КХЛ
+http://10.52.25.25:48490/CH98/video.m3u8
+#EXTINF:-1,Авто плюс
+http://10.52.25.25:48490/CH99/video.m3u8
+#EXTINF:-1,M-1 global MMA-TV
+http://10.52.25.25:48490/CH100/video.m3u8
+#EXTINF:-1,Матч Боец
+http://10.52.25.25:48490/CH101/video.m3u8
+#EXTINF:-1,Матч Игра
+http://10.52.25.25:48490/CH102/video.m3u8
+#EXTINF:-1,Матч Страна
+http://10.52.25.25:48490/CH103/video.m3u8
+#EXTINF:-1,О!2
+http://10.52.25.25:48490/CH104/video.m3u8
+#EXTINF:-1,Иллюзион+
+http://10.52.25.25:48490/CH105/video.m3u8
+#EXTINF:-1,Индия ТВ
+http://10.52.25.25:48490/CH106/video.m3u8
+#EXTINF:-1,Русский иллюзион
+http://10.52.25.25:48490/CH107/video.m3u8
+#EXTINF:-1,ТНТ Music
+http://10.52.25.25:48490/CH108/video.m3u8
+#EXTINF:-1,.RED
+http://10.52.25.25:48490/CH109/video.m3u8
+#EXTINF:-1,Cinema
+http://10.52.25.25:48490/CH110/video.m3u8
+#EXTINF:-1,Авто24
+http://10.52.25.25:48490/CH111/video.m3u8
+#EXTINF:-1,2x2
+http://10.52.25.25:48490/CH112/video.m3u8
+#EXTINF:-1,Ю!
+http://10.52.25.25:48490/CH113/video.m3u8
+#EXTINF:-1,Живая планета
+http://10.52.25.25:48490/CH114/video.m3u8
+#EXTINF:-1,НСТ
+http://10.52.25.25:48490/CH115/video.m3u8
+#EXTINF:-1,Luxury
+http://10.52.25.25:48490/CH116/video.m3u8
+#EXTINF:-1,Discovery Science HD
+http://10.52.25.25:48490/CH117/video.m3u8
+#EXTINF:-1,Discovery Channel
+http://10.52.25.25:48490/CH118/video.m3u8
+#EXTINF:-1,Investigation Discovery
+http://10.52.25.25:48490/CH119/video.m3u8
+#EXTINF:-1,СТС Love
+http://10.52.25.25:48490/CH120/video.m3u8
+#EXTINF:-1,Shopping Live
+http://10.52.25.25:48490/CH121/video.m3u8
+#EXTINF:-1,7tv
+http://10.52.25.25:48490/CH122/video.m3u8
